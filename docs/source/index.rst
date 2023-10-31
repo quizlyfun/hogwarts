@@ -1,9 +1,7 @@
 Harry Potter House Quiz - Hogwarts House Quiz - HP House Quiz
 ===================================
 
-Ahoy, all you aspiring wizards and witches, Muggles and magical creatures alike! Prepare yourselves for a journey more thrilling than a game of Quidditch on a Nimbus 2000! Today, we're plunging into the fantastical realm of magic, mischief, and, of course, questionable fashion choices (looking at you, Professor Snape's robes). The spellbinding adventure of the Harry Potter House Quiz is about to commence!
-
-➤ ► Play Harry Potter House Quiz 👉 https://quizly.co/harry-potter-house-sorting-quiz/
+Ahoy, all you aspiring wizards and witches, Muggles and magical creatures alike! Prepare yourselves for a journey more thrilling than a game of Quidditch on a Nimbus 2000! Today, we're plunging into the fantastical realm of magic, mischief, and, of course, questionable fashion choices (looking at you, Professor Snape's robes). The spellbinding adventure of the `Harry Potter House Quiz <https://quizly.co/harry-potter-house-sorting-quiz/>`_ is about to commence!
 
 Unraveling the Wizarding Riddles
 
