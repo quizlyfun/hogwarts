@@ -1,6 +1,9 @@
++Harry Potter House Quiz - Hogwarts House Quiz - HP House Quiz
+===================================
+
 Ahoy, all you aspiring wizards and witches, Muggles and magical creatures alike! Prepare yourselves for a journey more thrilling than a game of Quidditch on a Nimbus 2000! Today, we're plunging into the fantastical realm of magic, mischief, and, of course, questionable fashion choices (looking at you, Professor Snape's robes). The spellbinding adventure of the Harry Potter House Quiz is about to commence!
 
-Play Harry Potter House Quiz -> https://quizly.co/harry-potter-house-sorting-quiz/
+➤ ► Play Harry Potter House Quiz 👉 https://quizly.co/harry-potter-house-sorting-quiz/
 
 Unraveling the Wizarding Riddles
 In the mystical realm where keywords twirl like mischievous pixies, our Harry Potter House Quiz emerges like a phoenix from the ashes of ordinary quizzes. Picture yourself on a digital broomstick, soaring through the vast expanse of cyberspace, in hot pursuit of the elusive phrase that beckons all magical beings – "harry potter house quiz." Ah, there it is, glimmering like the Lumos charm in the dark, promising a journey more mysterious than divining the whims of Professor Trelawney's crystal ball.
@@ -28,8 +31,3 @@ Before you ask, "Why yet another quiz on Harry Potter houses?" let me enlighten 
 Magical Keyword Incantations
 In the grand tradition of magical incantations, let's sprinkle some keyword magic into the cauldron. As you navigate this enchanting text, keep an eye out for the elusive "harry potter house quiz." This isn't just a quiz; it's a house in hogwarts quiz, a harry potter dorm quiz, and the key to unlocking your very own magical adventure in the wizarding world. Brace yourselves for the magic of the Harry Potter House Quiz, where mischief and wizardry collide!
 --------
-
-.. toctree::
-
-   usage
-   api
